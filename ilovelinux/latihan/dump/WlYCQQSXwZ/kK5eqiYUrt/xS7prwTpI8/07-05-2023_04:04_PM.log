@@ -1,0 +1,15 @@
+GET /UPTASCBrdi HTTP/1.1
+Host: 71.220.208.206:22378
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+    
+    
+HTTP/1.1 200 OK
+Server: Apache/2.4.29 (Ubuntu)
+Pragma: no-cache
+Cache-Control: no-cache
+Content-Type: text/html
+Content-Length: 336
+    
+524SR0zXEjv1V3C8f5WQcKlUW5JVAdYuqxYqn29ATkwV8gcvIM2YA6Bysp8Ln9Recc6pf8nu7VDCso5BCdIwXgUFtXflO6vFUkhNmRK0ySvRn7L9yH4GzrgaBMJ8oRvnHgm9Df20hy1kPsYvPoG6zQkruK1sOSlCDMMR1SsX0g7d4PZhrtufu1f49VJ1m3kEVVQWgpRyVoEOaNCjdLItcd5c1CdivQi7yyglUQlTMlCANuG0dy6KYUSltxp9GtJ4XktE55VhbpXb2tfHgq9q9Hqwoioje53ak5mBl54JOLbeqNMZT7fcglRG3vPwZ8XGsJw2UdiVwjzBXj4X
